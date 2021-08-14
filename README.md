@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DoctorF78/DoctorF78.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# **Health Coaching 101**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Your health, _Our health_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Welcome
 
-# Header 1
-## Header 2
-### Header 3
+You are the master of your own universe. You are this body, a vehicle for your consiousness
 
-- Bulleted
-- List
+Health is maintaining an optimal state of body and mind, aiding you in your goals, active or passive ones.
 
-1. Numbered
-2. List
+You are in charge of your health, right now. Taking responsibility for it right now is the most important pact you will make with your body.
+
+You have the right to enjoy, build, share your health. You also have the right to destroy your health. You are your own master
+
+This site and service is only a mirror for your mind, a vaccum creating more space in order to unclatter your thoughts. Sometimes it will take a voice you wish to listen to, other times it will give you the silence you may crave for. Health coaching is about you, and what your mission
+
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DoctorF78/DoctorF78.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
